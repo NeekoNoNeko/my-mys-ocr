@@ -1,0 +1,11 @@
+path: ..
+train: data/train/images
+val: data/valid/images
+#test: data/test/images
+
+nc: 1
+names: ['char']
+
+#nc: 4 # 种类数量
+#names: ['clockwise90', '0degrees', 'counterclockwise90', '180degrees']
+#'counterclockwise90', '180degrees'
